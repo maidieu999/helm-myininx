@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mynginx:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2022-03-02T14:12:50.3608255+07:00"
+    description: A Helm chart for deploying nginx demo
+    digest: eaa014befdbdd02488fdbef334946dab8498d7d3508b287b2d6b88874efb2a79
+    name: mynginx
+    type: application
+    urls:
+    - publish/mynginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-02T14:12:50.3564453+07:00"
